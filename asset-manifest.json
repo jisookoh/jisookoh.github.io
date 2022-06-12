@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jisookoh/blog/static/css/main.d1aef546.css",
+    "main.js": "/jisookoh/blog/static/js/main.ff911d23.js",
+    "static/js/787.f587e8d5.chunk.js": "/jisookoh/blog/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/jisookoh/blog/index.html",
+    "main.d1aef546.css.map": "/jisookoh/blog/static/css/main.d1aef546.css.map",
+    "main.ff911d23.js.map": "/jisookoh/blog/static/js/main.ff911d23.js.map",
+    "787.f587e8d5.chunk.js.map": "/jisookoh/blog/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1aef546.css",
+    "static/js/main.ff911d23.js"
+  ]
+}
